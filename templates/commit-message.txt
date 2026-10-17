@@ -1,0 +1,10 @@
+# type(scope): subject
+# feat | fix | docs | style | refactor | test | chore | perf
+# scope is optional. Prefer <=50 characters; max 72. No final period.
+# Keep the message line uncommented when writing a commit.
+
+# Explain what changed and why, only when useful.
+
+# Optional, only for real references:
+# Refs #123
+# BREAKING CHANGE: describe impact and migration
