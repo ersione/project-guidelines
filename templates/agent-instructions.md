@@ -10,6 +10,7 @@
 - 커밋 작성 전 https://github.com/ersione/project-guidelines/blob/main/guidelines/commit-messages.md 를 읽는다.
 - PR 작성·수정 전 https://github.com/ersione/project-guidelines/blob/main/guidelines/pull-requests.md 를 읽는다.
 - 코드 리뷰 시 https://github.com/ersione/project-guidelines/blob/main/guidelines/code-review.md 를 참고한다.
+- 릴리스 노트·변경 이력 작성 전 https://github.com/ersione/project-guidelines/blob/main/guidelines/releases.md 를 읽는다.
 - 로컬 체크아웃이 있다면 같은 문서를 로컬에서 읽어도 된다. 접근하지 못한 원문을 읽은 것처럼 처리하지 않는다.
 - 공통 규칙을 프로젝트별 문서로 복제하지 않는다. 프로젝트별 지침 파일은 명시적으로 요청받은 경우에만 추가한다.
 ```
